@@ -24,7 +24,6 @@
     "categories": [
       "Themes"
     ],
-    "icon": "owl-icon.png",
     "contributes": {
       "themes": [
         {
