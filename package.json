@@ -1,7 +1,7 @@
 {
     "name": "super-bright",
     "displayName": "Super Bright",
-    "description": "Bright more Bright",
+    "description": "Hotline miami style theme",
     "version": "1.0.0",
     "publisher": "diyst",
     "repository": {
@@ -11,6 +11,7 @@
     "keywords": [
       "Theme"
     ],
+    "icon": "icon.png",
     "scripts": {
       "publish": "vsce publish"
     },
@@ -29,7 +30,7 @@
         {
           "label": "SuperBright",
           "uiTheme": "vs-dark",
-          "path": "./themes/SuperBrightTheme.json"
+          "path": "/themes/SuperBrightTheme.json"
         }
       ]
     }
